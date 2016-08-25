@@ -1,4 +1,3 @@
-layout_spectrum: 0.4027911243028939
 typography_spectrum: 0.34382141032256186
 color:
   brandStrength: 0.02377528278157115
@@ -11,4 +10,6 @@ color:
     - '#F9EFE5'
     - '#867300'
     - '#E0944B'
+layout_spectrum: 0.4027911243028939
 name: theOmpage
+title: Are you ready to Ascend?

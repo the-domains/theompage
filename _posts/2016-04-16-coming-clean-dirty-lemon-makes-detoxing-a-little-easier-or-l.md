@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T01:31:19.991Z'
+datePublished: '2016-08-25T01:31:20.034Z'
 sourcePath: >-
   _posts/2016-04-16-coming-clean-dirty-lemon-makes-detoxing-a-little-easier-or-l.md
 inFeed: true
@@ -21,7 +21,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-25T01:31:16.904Z'
+dateModified: '2016-08-25T01:31:17.993Z'
 title: 'Coming clean: Dirty Lemon makes detoxing a little easier.'
 app_links: []
 publisher:

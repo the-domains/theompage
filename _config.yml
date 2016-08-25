@@ -1,0 +1,14 @@
+layout_spectrum: 0.4027911243028939
+typography_spectrum: 0.34382141032256186
+color:
+  brandStrength: 0.02377528278157115
+  lightness: 0.725275214528665
+  saturation: 0.5435538173187524
+  rhythmicContrast: 0.3805035944096744
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: theOmpage

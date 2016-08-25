@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T01:31:20.025Z'
+datePublished: '2016-08-25T01:31:20.017Z'
 sourcePath: _posts/2016-04-15-the-light-phone-designed-for-disconnecting.md
 inFeed: true
 isBasedOnUrl: >-
@@ -18,7 +18,7 @@ keywords:
   - kickstarter
 related: []
 author: []
-dateModified: '2016-08-25T01:31:17.478Z'
+dateModified: '2016-08-25T01:31:17.501Z'
 title: 'The Light Phone: Designed for Disconnecting'
 app_links: []
 publisher:
